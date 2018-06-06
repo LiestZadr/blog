@@ -1,0 +1,2 @@
+1st post try
+INSERT INTO `posts` (`id`, `title`, `body`, `created_at`, `updated_at`) VALUES ('2', 'My 2nd Post', 'You Rock!!Lets Go Way Further!!', '2018-06-02 06:07:08', '0000-00-00 00:00:00.000000');
